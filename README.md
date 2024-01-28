@@ -1,3 +1,5 @@
+# This is a fork of altoclef. Please support the official release
+
 # altoclef
 
 Plays block game.
